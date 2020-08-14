@@ -1,0 +1,19 @@
+{
+  "name": "Rest-Api",
+  "version": "1.0.0",
+  "description": "Creating rest-api",
+  "main": "index.js",
+  "repository": "https://github.com/GHATAK123/rest-api.git",
+  "author": "Prakash Anand",
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon server"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.29"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
