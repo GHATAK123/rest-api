@@ -10,7 +10,7 @@
 3. First install all dependencies:
     ```bash
     # or with yarn
-    npm intall
+    npm install
     ```
 4. Start the server
     ```javascript
